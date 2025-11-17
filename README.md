@@ -1,17 +1,28 @@
-## ![header](https://capsule-render.vercel.app/api?type=Soft&color=5A9FFF&height=300&section=header&text=Welcome%20to%20Jiyoon's%20Github&fontSize=60&fontColor=EEE&animation=fadeIn)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Comic+Relief&weight=700&size=60&pause=1000&color=EEEEEE&background=5A9FFF&center=true&vCenter=true&width=900&height=300&lines=Welcome+to+jiyoon's+GitHub"
+    alt="Typing SVG" />
+</a>
+<br/><br/>
 
 <div align='center'>
   <!-- contact -->
-  <h2>👩‍💻 About Me 👩‍💻</h2>
+  <h2>👩‍💻 About Me 👩‍💻</h2> 
   <p>
+    <!-- intro -->
+    <p>✨안녕하세요,
+      <strong>끈기</strong>있게 
+      <strong>몰입</strong>하는 
+      <strong>신입 프론트엔드 개발자 최지윤</strong>입니다.✨
+    </p>
     <!-- gmail -->
     <img src="https://img.shields.io/badge/chlwldbs78@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
     <!-- Notion -->
     <a href="https://spangle-griffin-f97.notion.site/20f6e8c177368067bccef36291fc069e?source=copy_link"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
   </p>
+  <br/>
   
   <!-- 기술 스택 -->
-  ## 🛠️ Tech Stacks 🛠️
+  <h2>🛠️ Tech Stacks 🛠️</h2> 
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -34,4 +45,12 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
   </p>
+  <br/>
+
+  <!-- 스탯 -->
+  <h2>📊 Stats 📊</h2>
+  
+  <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=cjiyun&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+  [![cjiyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjiyun&theme=react&include_all_commits=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjiyun&layout=compact&theme=react)
 </div>
