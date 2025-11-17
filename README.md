@@ -1,4 +1,4 @@
-## ![header](https://capsule-render.vercel.app/api?type=Soft&color=5A9FFF&height=300&section=header&text=Welcome%20to%20Jiyoon's%20Github&fontSize=60&fontColor=DDD&animation=fadeIn)
+## ![header](https://capsule-render.vercel.app/api?type=Soft&color=5A9FFF&height=300&section=header&text=Welcome%20to%20Jiyoon's%20Github&fontSize=60&fontColor=EEE&animation=fadeIn)
 
 <div align='center'>
   <!-- contact -->
