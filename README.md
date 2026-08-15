@@ -50,8 +50,8 @@
   <!-- 스탯 -->
   <h2>📊 Stats 📊</h2>
   
-  [![cjiyun's GitHub stats](https://github-readme-stats-dun-zeta.vercel.app/api?username=cjiyun&theme=react&include_all_commits=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-  ![Top Langs](https://github-readme-stats-dun-zeta.vercel.app/api/top-langs/?username=cjiyun&layout=compact&theme=react)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=cjiyun&show_icons=true&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=cjiyun&show_icons=true&include_all_commits=true&theme=ambient_gradient)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=cjiyun&layout=compact&langs_count=6&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=cjiyun&layout=compact&langs_count=6&theme=ambient_gradient)
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlwldbs78)](https://solved.ac/chlwldbs78)
 </div>
